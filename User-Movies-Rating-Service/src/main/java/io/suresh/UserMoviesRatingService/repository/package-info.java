@@ -1,0 +1,1 @@
+package io.suresh.UserMoviesRatingService.repository;

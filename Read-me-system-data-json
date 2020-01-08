@@ -1,0 +1,90 @@
+user movie rating data
+
+
+===============user Movie rating data==========
+[
+    {
+        "movieId": "war",
+        "userId": "suresh",
+        "userrating": 9
+    },
+    {
+        "movieId": "shole",
+        "userId": "suresh",
+        "userrating": 9
+    },
+    {
+        "movieId": "diwar",
+        "userId": "suresh",
+        "userrating": 9
+    },
+    {
+        "movieId": "mast",
+        "userId": "ram",
+        "userrating": 9
+    }
+]
+
+=========================== Movie info data============================
+
+[
+    {
+        "movieId": "GOD FATHER",
+        "movieName": "GOD FATHER",
+        "movieDescription": "TOP 10 Moview in IMDB",
+        "movieReleseYear": 1982
+    },
+    {
+        "movieId": "war",
+        "movieName": "WAR",
+        "movieDescription": "Bottom 10 Moview in IMDB",
+        "movieReleseYear": 2019
+    },
+    {
+        "movieId": "shole",
+        "movieName": "SHOLE",
+        "movieDescription": "Top 10 Moview in IMDB",
+        "movieReleseYear": 1980
+    },
+    {
+        "movieId": "diwar",
+        "movieName": "DIWAR",
+        "movieDescription": "Top 10 Moview in IMDB",
+        "movieReleseYear": 1985
+    },
+    {
+        "movieId": "mast",
+        "movieName": "MAST",
+        "movieDescription": "CRAP MOVIEW",
+        "movieReleseYear": 1999
+    }
+]
+==========================user Movie rating data============
+
+{
+    "userId": "suresh",
+    "userMovies": [
+        {
+            "movieId": "war",
+            "movieName": "WAR",
+            "movieDescription": "Bottom 10 Moview in IMDB",
+            "movieReleseYear": 2019,
+            "rating": 9
+        },
+        {
+            "movieId": "shole",
+            "movieName": "SHOLE",
+            "movieDescription": "Top 10 Moview in IMDB",
+            "movieReleseYear": 1980,
+            "rating": 9
+        },
+        {
+            "movieId": "diwar",
+            "movieName": "DIWAR",
+            "movieDescription": "Top 10 Moview in IMDB",
+            "movieReleseYear": 1985,
+            "rating": 9
+        }
+    ]
+}
+===================================================================
